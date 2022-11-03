@@ -1,0 +1,6 @@
+.container{display:flex;justify-content:center;align-items:center;}
+.reg{display:flex;justify-content:center;align-items:center;font-size:50px;}
+input{display:flex;justify-content:center;align-items:center;width:calc(100% - 100px);padding:20px 10px;}
+.img1{display:flex;justify-content:center;align-items:center;margin:5px 0;}
+.inpdiv{width:40%}
+.but1{display:flex;justify-content:center;align-items:center;font-size:50px;}
