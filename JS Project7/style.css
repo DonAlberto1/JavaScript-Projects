@@ -1,0 +1,28 @@
+.border {
+    border: 1px solid rgb(72, 72, 72);
+    background: #ccc;
+    display: flex;
+    flex-wrap: wrap;
+    width: 306px;
+}
+
+.quadro {
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border1 {
+    border: 1px solid rgb(72, 72, 72);
+    background: #ccc;
+    display: flex;
+    flex-wrap: wrap;
+    width: 306px;
+}
+
+.border2 {
+    margin: 10px;
+}
